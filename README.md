@@ -1,2 +1,1 @@
-# Red-Six-Winter19
-Roguelike game played in your browser.
+Console has bonus info
